@@ -63,6 +63,7 @@ java -jar BatiCuisine.jar
 ![DiagrammeClass](https://github.com/user-attachments/assets/824b8cbb-04d8-4f9d-bb7b-d259719c80dc)
 
 ### Planification JIRA
-
+https://yassinehanach02.atlassian.net/jira/software/projects/BC/boards/67/backlog?epics=visible&selectedIssue=BC-1
 
 ### Presentation canva
+https://www.canva.com/design/DAGRtChigTk/oWpIa6k0uMuOJjthCCLAHA/edit?utm_content=DAGRtChigTk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
