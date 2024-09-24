@@ -46,7 +46,6 @@ L'architecture adoptée suit une approche en couches :
 
   ```sql
      CREATE DATABASE BatiCuisine;
-     ```
 
 2. Exécutez le fichier Bati_Cuisine.sql (fourni avec le projet dans /resources) pour créer les tables nécessaires dans la base de données.
 
@@ -61,8 +60,7 @@ java -jar BatiCuisine.jar
 ```
 
 ### Conception UML
-
-![DiagrammeClass](https://github.com/user-attachments/assets/85ca497f-e287-4837-a422-ecfff825a192)
+![DiagrammeClass](https://github.com/user-attachments/assets/824b8cbb-04d8-4f9d-bb7b-d259719c80dc)
 
 ### Planification JIRA
 
