@@ -38,7 +38,7 @@ L'architecture adoptée suit une approche en couches :
 ### Installation des fichiers (pour la gestion des dépendances)
 1. Clonez le projet depuis le dépôt Git :
    ```bash
-   [git clone https://github.com/Yassinean/Bati_Cuisine.git](https://github.com/Yassinean/Bati_Cuisine.git)
+   git clone https://github.com/Yassinean/Bati_Cuisine.git
 
 ### Étapes pour configurer la base de données
 
